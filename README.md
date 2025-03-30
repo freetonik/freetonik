@@ -11,13 +11,14 @@ I'm Rakhim.
 
 Some recent tiny side-projects:
 
-- [skyshelf.app](https://skyshelf.app/): Collect links from your liked posts on Bluesky in one place
+- [Knight Ride](https://knightride.rakhim.org/): puzzle game
 - [Listen-later text-to-podcast generator](https://github.com/freetonik/linkcast)
 - [Bluesky100](https://bluesky100.rakhim.org/): a hundred most popular words in the last 5 seconds
 - [That Word](https://word.rakhim.org/): find that word on the tip of your tongue
 - [Dall-E Web Client](https://dalle.skyshelf.app/): bring your own OpenAI API key
 - [LobHN](https://lobhn.skyshelf.app/): How many links overlap between Lobste.rs and HN?
 - [EV vs Petrol Cost Calculator](https://ev-vs-petrol.rakhim.org/): Simple calculator for comparing the cost of driving an EV vs. driving a petrol car.
+- [skyshelf.app](https://skyshelf.app/): Collect links from your liked posts on Bluesky in one place
 
 <br>
 
